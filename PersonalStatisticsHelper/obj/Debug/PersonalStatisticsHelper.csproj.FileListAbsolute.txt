@@ -1,0 +1,9 @@
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\bin\Debug\PersonalStatisticsHelper.exe.config
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\bin\Debug\PersonalStatisticsHelper.exe
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\bin\Debug\PersonalStatisticsHelper.pdb
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\obj\Debug\PersonalStatisticsHelper.csprojAssemblyReference.cache
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\obj\Debug\PersonalStatisticsHelper.Form1.resources
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\obj\Debug\PersonalStatisticsHelper.Properties.Resources.resources
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\obj\Debug\PersonalStatisticsHelper.csproj.GenerateResource.cache
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\obj\Debug\PersonalStatisticsHelper.exe
+D:\ExtraCodes\LifeHacksSabitBrinta\PersonalStatisticsHelper\obj\Debug\PersonalStatisticsHelper.pdb
